@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77AA0623-8AB7-46C7-B663-1790E502497F}|Gestion de empleados\\Gestion de empleados..csproj|c:\\users\\user\\onedrive\\escritorio\\gestion de empleados\\gestion de empleados\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AA0623-8AB7-46C7-B663-1790E502497F}|Gestion de empleados\\Gestion de empleados..csproj|solutionrelative:gestion de empleados\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AA0623-8AB7-46C7-B663-1790E502497F}|Gestion de empleados\\Gestion de empleados..csproj|c:\\users\\user\\onedrive\\escritorio\\gestion de empleados\\gestion de empleados\\models\\gestorempleadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AA0623-8AB7-46C7-B663-1790E502497F}|Gestion de empleados\\Gestion de empleados..csproj|solutionrelative:gestion de empleados\\models\\gestorempleadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AA0623-8AB7-46C7-B663-1790E502497F}|Gestion de empleados\\Gestion de empleados..csproj|c:\\users\\user\\onedrive\\escritorio\\gestion de empleados\\gestion de empleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AA0623-8AB7-46C7-B663-1790E502497F}|Gestion de empleados\\Gestion de empleados..csproj|solutionrelative:gestion de empleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorEmpleadosContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\Gestion de empleados\\Models\\GestorEmpleadosContext.cs",
+              "RelativeDocumentMoniker": "Gestion de empleados\\Models\\GestorEmpleadosContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\Gestion de empleados\\Models\\GestorEmpleadosContext.cs",
+              "RelativeToolTip": "Gestion de empleados\\Models\\GestorEmpleadosContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:52:07.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\Gestion de empleados\\Form3.cs",
+              "RelativeDocumentMoniker": "Gestion de empleados\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\Gestion de empleados\\Form3.cs",
+              "RelativeToolTip": "Gestion de empleados\\Form3.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:32:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\Gestion de empleados\\Form1.cs",
+              "RelativeDocumentMoniker": "Gestion de empleados\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Gestion de empleados\\Gestion de empleados\\Form1.cs",
+              "RelativeToolTip": "Gestion de empleados\\Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwHcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:51:29.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
